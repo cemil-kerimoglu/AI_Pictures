@@ -1,4 +1,4 @@
-This is an app displaying events whih users can register to either for free or for a payment.
+This is an app where users can create, upload or modify AI-generated pictures.
 
 - It is built using Next.js 14 with Typescript. Tailwind is used for styling.
-- Stripe is used for payments and Clerk for authentication.
+- Stripe and MongoDB are used at the backend and Clerk is used for user authentication.
